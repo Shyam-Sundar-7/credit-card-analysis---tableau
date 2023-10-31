@@ -42,3 +42,6 @@ This dashboard provides a comprehensive analysis of the top N and bottom N credi
 <a href="https://public.tableau.com/views/CreditCardAnalysis-topNandBottomN/TopNandBottomNanalysis?:language=en-US&:display_count=n&:origin=viz_share_link">
   <img src="img\Top N and Bottom N analysis.png" alt="img\Top N and Bottom N analysis.png">
 </a>
+
+
+You can have interactive display of the dashboard when you click the above images.
