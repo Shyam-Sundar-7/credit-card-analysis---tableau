@@ -19,19 +19,26 @@ We conducted extensive data cleaning and consolidation to create a single datase
 # Dashboard Descriptions
 
 1. Credit Card Analysis
-In this dashboard, you can delve into a more general overview of credit card data for July to September 2023. Explore trends in the credit card overall.<a href="https://public.tableau.com/views/CreditCardAnalysis_16987386666210/Segmentanalysisoncreditcard?:language=en-US&:display_count=n&:origin=viz_share_link">
+In this dashboard, you can delve into a more general overview of credit card data for July to September 2023. Explore trends in the credit card overall.
+
+<a href="https://public.tableau.com/views/CreditCardAnalysis_16987386666210/Segmentanalysisoncreditcard?:language=en-US&:display_count=n&:origin=viz_share_link">
   <img src="img\credit card analysis.png" alt="img\credit card analysis.png">
 </a>
 
 
 
 2. Credit Card Analysis - Bank Type
-The "Credit Card Analysis - Bank Type" dashboard focuses on the distribution of credit card transactions by bank type. You can explore data by bank category, such as public sector banks, private sector banks, and foreign banks. Gain insights into how different bank types contribute to credit card activities.<a href="https://public.tableau.com/views/CreditCardAnalysis-banktype/BankTypeAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link">
+The "Credit Card Analysis - Bank Type" dashboard focuses on the distribution of credit card transactions by bank type. You can explore data by bank category, such as public sector banks, private sector banks, and foreign banks. Gain insights into how different bank types contribute to credit card activities
+
+.<a href="https://public.tableau.com/views/CreditCardAnalysis-banktype/BankTypeAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link">
   <img src="img\Bank Type Analysis.png" alt="img\Bank Type Analysis.png">
 </a>
 
 
 3. Credit Card Analysis - Top N and Bottom N
-This dashboard provides a comprehensive analysis of the top N and bottom N credit card transactions. You can explore which bank performs better under their bank type in various segments of the credit card during July - September 2023.<a href="https://public.tableau.com/views/CreditCardAnalysis-topNandBottomN/TopNandBottomNanalysis?:language=en-US&:display_count=n&:origin=viz_share_link">
+This dashboard provides a comprehensive analysis of the top N and bottom N credit card transactions. You can explore which bank performs better under their bank type in various segments of the credit card during July - September 2023.
+
+
+<a href="https://public.tableau.com/views/CreditCardAnalysis-topNandBottomN/TopNandBottomNanalysis?:language=en-US&:display_count=n&:origin=viz_share_link">
   <img src="img\Top N and Bottom N analysis.png" alt="img\Top N and Bottom N analysis.png">
 </a>
